@@ -1,0 +1,1167 @@
+{
+  "version": "2",
+  "projectId": "1659447153250-7741627960549377",
+  "entries": [
+    {
+      "type": "Store",
+      "name": "ImpactState",
+      "entries": {
+        "1659511424348-7114750552689478": {
+          "id": "1659511424348-7114750552689478",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "",
+          "sdgCode": null,
+          "likelihood": 0.8161348197489531,
+          "likelihoodJustification": "",
+          "magnitude": 0.9536503456186419,
+          "magnitudeJustification": ""
+        },
+        "1659511439920-5671231958739902": {
+          "id": "1659511439920-5671231958739902",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "",
+          "sdgCode": "11",
+          "likelihood": 0.3347798034573401,
+          "likelihoodJustification": "",
+          "magnitude": 0.8644371068357679,
+          "magnitudeJustification": ""
+        },
+        "1659511473269-8041954832108014": {
+          "id": "1659511473269-8041954832108014",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "",
+          "sdgCode": "4",
+          "likelihood": 0.22928943993255588,
+          "likelihoodJustification": "",
+          "magnitude": 0.6719427638129511,
+          "magnitudeJustification": ""
+        },
+        "1659511513065-49531954423020386": {
+          "id": "1659511513065-49531954423020386",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "",
+          "sdgCode": "10",
+          "likelihood": 0.23404291492350268,
+          "likelihoodJustification": "",
+          "magnitude": 0.6926044626649044,
+          "magnitudeJustification": ""
+        },
+        "1659511537156-5087518948915446": {
+          "id": "1659511537156-5087518948915446",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "",
+          "sdgCode": "12",
+          "likelihood": 0.8598272986503136,
+          "likelihoodJustification": "",
+          "magnitude": 0.14241316281638025,
+          "magnitudeJustification": ""
+        },
+        "1659511554222-9981169071787415": {
+          "id": "1659511554222-9981169071787415",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "",
+          "sdgCode": null,
+          "likelihood": 0.28037885361007897,
+          "likelihoodJustification": "",
+          "magnitude": 0.5686895547892517,
+          "magnitudeJustification": ""
+        },
+        "1659511891295-3030152507969168": {
+          "id": "1659511891295-3030152507969168",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "",
+          "sdgCode": null,
+          "likelihood": 0.5067451115312988,
+          "likelihoodJustification": "",
+          "magnitude": 0.9965950631349833,
+          "magnitudeJustification": ""
+        },
+        "1659541616723-40812247851984695": {
+          "id": "1659541616723-40812247851984695",
+          "removed": false,
+          "consequences": [
+            "1659599349036-9318280983658145"
+          ],
+          "direction": "positive",
+          "justification": "Justification",
+          "sdgCode": "12.c",
+          "likelihood": 1,
+          "likelihoodJustification": "Udfasningen af LP plader og CD'er vil bestemt medføre et mindre behov for udvinding af fossile ressourcer.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "Fossile ressourcer bruges ikke udelukkende til materiale produktion til CD'er og LP plader, derfor er størelsen lille."
+        },
+        "1659541842046-9552494542702611": {
+          "id": "1659541842046-9552494542702611",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "",
+          "sdgCode": null,
+          "likelihood": 0.8967053309182044,
+          "likelihoodJustification": "",
+          "magnitude": 0.981222453974997,
+          "magnitudeJustification": ""
+        },
+        "1659543796810-011373156375912963": {
+          "id": "1659543796810-011373156375912963",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "Øget energi produktion der ikke består udelukkende af vedvarende energi har et negativt præg på klimaet. ",
+          "sdgCode": "13.2",
+          "likelihood": 1,
+          "likelihoodJustification": "Den energi produktion som bruges til det stigende behøv kan være produceret fra en grøn vedvarende kilde, dog meget usandsynligt.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "Internettet er ansvarlig for 10% af verdenens elektriske forbrug som svare til 2 % af den menneske skabte Co2 udledning. Med øget brug vil det sikkert stige, men i forhold til kød virker det ikke så slemt. En times streaming udslipper omkring 163 gram, hvor en 250 gram bøf udslipper 12 kg CO2e.\nhttps://www.dr.dk/nyheder/viden/forsker-menneskeskabt-co2-udledning-er-den-stoerste-klimasynder"
+        },
+        "1659544933786-0785780157405479": {
+          "id": "1659544933786-0785780157405479",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "Alt det plastik som ikke bortskaffes hensigtmæssigt ender steder som eksempelvis i havet. En mindre produktion af svært nedbrydelige plastikker har en positiv effect.",
+          "sdgCode": "14",
+          "likelihood": 1,
+          "likelihoodJustification": "Mindskningen af svært nedbrydelige plastikker er en naturlig konsekvens af afskaffelsen af CD og LP plade produktionen.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "Mindskningen af plastik produktionen er ikke særlig stor i forhold til andre teknologier der anvender plastik som eksempelvis PVC."
+        },
+        "1659544970980-11072893476280188": {
+          "id": "1659544970980-11072893476280188",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "",
+          "sdgCode": null,
+          "likelihood": 0.31769259307768616,
+          "likelihoodJustification": "",
+          "magnitude": 0.9335887551043212,
+          "magnitudeJustification": ""
+        },
+        "1659546318390-9920294614421339": {
+          "id": "1659546318390-9920294614421339",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "",
+          "sdgCode": "1",
+          "likelihood": 0.43474566775014994,
+          "likelihoodJustification": "",
+          "magnitude": 0.34676338029521736,
+          "magnitudeJustification": ""
+        },
+        "1659546352319-277845614984803": {
+          "id": "1659546352319-277845614984803",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "",
+          "sdgCode": "1",
+          "likelihood": 0.14639178359112442,
+          "likelihoodJustification": "",
+          "magnitude": 0.7166744483594747,
+          "magnitudeJustification": ""
+        },
+        "1659546422477-9884482763578812": {
+          "id": "1659546422477-9884482763578812",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "Ved at gøre musik billigere gør at flere mennesker har råd til udfylde deres behov indenfor musik.",
+          "sdgCode": "1.2",
+          "likelihood": 1,
+          "likelihoodJustification": "190 kr,- for en enkelt LP plade ersterttes med 99 kr,- om måneden for ubegrænset musik. Den gennemsnitelige time/sang lytnings pris falder.",
+          "magnitude": 0.05,
+          "magnitudeJustification": "I forhold til fattigdom, kan musik anses som et luksus behov og derfor ikke rigtig gør meget for at løfte mennesker ud af fattigdom."
+        },
+        "1659547038141-49700304572973897": {
+          "id": "1659547038141-49700304572973897",
+          "removed": false,
+          "consequences": [
+            "1659619474716-5179445897206781"
+          ],
+          "direction": "positive",
+          "justification": "Flere datacentre har en positiv effekt på mål 11, da det vil give hurtigere og bedre tilgængelighed til musik i nærtliggende områder.",
+          "sdgCode": "11",
+          "likelihood": 1,
+          "likelihoodJustification": "Med en udfasning af CD'er og LP plader vil der bestemt være behov for flere datacentre til at facilitere den øget mængde musik distrution via streaming.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "Påvirkningen der skyldes flere datacentres er kun en smule. Musik streaming udgør ikke en stor del af internet trafikken i forhold til eksempelvis video streaming. https://dailywireless.org/internet/usage-statistics/\nhttps://www.digitalmusicnews.com/2016/08/16/music-5-percent-youtube/"
+        },
+        "1659547201859-1367791206332748": {
+          "id": "1659547201859-1367791206332748",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "Hvis ikke alt energi kommer fra grønne vedvarende kilder, vil det have en negativ effect på bæredygdigheden.",
+          "sdgCode": "13",
+          "likelihood": 1,
+          "likelihoodJustification": "Med en fuld erstatning af CD og LP plade til streaming vil der bestemt være en belastning på operationen og vedligeholdesen af servere og køleanlæg mm.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "Internettet er ansvarlig for 10% af verdenens elektriske forbrug som svare til 2 % af den menneske skabte Co2 udledning. Med øget brug vil det sikkert stige, men i forhold til kød virker det ikke så slemt. En times streaming udslipper omkring 163 gram, hvor en 250 gram bøf udslipper 12 kg CO2e.\nhttps://www.dr.dk/nyheder/viden/forsker-menneskeskabt-co2-udledning-er-den-stoerste-klimasynder"
+        },
+        "1659547579485-8238503792435984": {
+          "id": "1659547579485-8238503792435984",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "",
+          "sdgCode": "17",
+          "likelihood": 0.15870329814872464,
+          "likelihoodJustification": "",
+          "magnitude": 0.9417063511434095,
+          "magnitudeJustification": ""
+        },
+        "1659547678922-7317534198673649": {
+          "id": "1659547678922-7317534198673649",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "",
+          "sdgCode": null,
+          "likelihood": 0.7227214165846553,
+          "likelihoodJustification": "",
+          "magnitude": 0.27515130534677085,
+          "magnitudeJustification": ""
+        },
+        "1659547686742-8316401095093342": {
+          "id": "1659547686742-8316401095093342",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "Ved midnre afbrænding af plastikker som PVC, afgives mindre klorbrinte der resultere i mindre dannelse af saltsyre. Dette har en positiv effekt på land miljøet.",
+          "sdgCode": "15",
+          "likelihood": 1,
+          "likelihoodJustification": "Ved at erstatte CD'er og LP plader giver det bestemt mindre plastik at kunne brænde af.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "I danmark er 2/3 af klortiførslen til forbrændingsanlæger skyldet PVC, på grund af en krævet kalkbaseret rørgasrensning fra saltsyre dannelsen ved afbrænding. Givet resten af verden ligner danske plastik forbrændings mønstrer, kunne dette godt have en stor impact. Men da LP plader udgør en lille del af den totale mængde PVC er impacten lille."
+        },
+        "1659599349036-9318280983658145": {
+          "id": "1659599349036-9318280983658145",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "Mindre udvinding af fossile ressourcer spare miljøet for eventuelle Co2 udslip forbundet med udvindingen, hvilket har en positiv effekt på klimaet.",
+          "sdgCode": "13",
+          "likelihood": 1,
+          "likelihoodJustification": "Med mindre behov for fossile ressourcer, desto mindre udvinding af disse fossile ressourcer.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "Den Co2 udslip der er forbundet med den mængde mindsket behov for udvinding af fossile ressourcer til PVC er ret lille i det store perspektiv."
+        },
+        "1659600187123-9213820431042347": {
+          "id": "1659600187123-9213820431042347",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "Ved øget behov for energi, kan det give mulighed for at udvide energi produktion med vedvarende kilder, hvilket har et positivt præg på mål 7. Det kan også gå i den anden retning hvis energien ikke er vedvarende.",
+          "sdgCode": "7",
+          "likelihood": 0,
+          "likelihoodJustification": "På nuværende tidspunkt, er meget er den energi vi producere ikke vedvarende.\n Ifølge https://www.carbonbrief.org/factcheck-how-much-energy-does-the-world-get-from-renewables/\ner det under 15% af verdens energi forbrug som kommer fra vedvarende kilder. Med så lille en andel, er der ikke gode chancer for at den øget energi produktion er vedvarende.",
+          "magnitude": 0.5,
+          "magnitudeJustification": "Internettet idag bruger 10% af den strøm vi bruger, og med et fremtidigt øget behov, bliver denne andel kun størere, derfor er størelsen moderate."
+        },
+        "1659600744692-9517714894252504": {
+          "id": "1659600744692-9517714894252504",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "",
+          "sdgCode": null,
+          "likelihood": 0.7573655151003976,
+          "likelihoodJustification": "",
+          "magnitude": 0.46832545947741094,
+          "magnitudeJustification": ""
+        },
+        "1659601925724-2107216782881115": {
+          "id": "1659601925724-2107216782881115",
+          "removed": false,
+          "consequences": [
+            "1659602964596-670418427078096"
+          ],
+          "direction": "positive",
+          "justification": "Mindre plastik skrald vil have en positiv effekt på 12.5",
+          "sdgCode": "12.5",
+          "likelihood": 1,
+          "likelihoodJustification": "Afskaffelsen af plader og pladespiller vil bestemt reducere plastik skrald på lossepladser.",
+          "magnitude": 0.05,
+          "magnitudeJustification": "Den mængde skrald der generes af plader og pladespillere er lille til ubetydelig, og vil nok ikke baggrunde en betydelig ændring i forhold til eksempelvis mad emballage."
+        },
+        "1659602065561-9078311087073592": {
+          "id": "1659602065561-9078311087073592",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "Ved midnre afbrænding af plastikker som PVC, afgives mindre klorbrinte der resultere i mindre dannelse af saltsyre. Dette har en positiv effekt mål 12.4, da det reducere mængden af klortilførsel i forbrændingsanlægger.",
+          "sdgCode": "12.4",
+          "likelihood": 1,
+          "likelihoodJustification": "Afskaffelsen af plader og pladespillere vil bestemt reducere mængden af PVC, hvis erstatningen ikke også indeholder PVC, hvilken er tilfældet.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "På trods af at 2/3 dele af klortilførslen på danske forbrændings anlæger er skyldet PVC, er den mængde af PVC forbrændt skyldet afskaffelse af plader og pladespillere ikke lige så stor."
+        },
+        "1659602964596-670418427078096": {
+          "id": "1659602964596-670418427078096",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "Mindre plastik skrald på lossepladser medføre mindre landareal som ikke konservere økosystemet. Mindre behov for at bruge landarealer til noget der ikke konservere økosystemet har et positivt præg på mål 15.1",
+          "sdgCode": "15.1",
+          "likelihood": 1,
+          "likelihoodJustification": "Afskaffelsen af plader og pladespiller vil bestemt reducere plastik skrald på lossepladser.",
+          "magnitude": 0.05,
+          "magnitudeJustification": "Den mængde skrald der generes af plader og pladespillere er lille til ubetydelig, og vil nok ikke baggrunde en betydelig ændring."
+        },
+        "1659615384855-8576026582172432": {
+          "id": "1659615384855-8576026582172432",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "Ved at gøre prisen på musik lavere, vil medføre en positiv påvirkning på ligheden, da det vil give mulighed for flere mennesker at lytte til enda mere musik. ",
+          "sdgCode": "10",
+          "likelihood": 1,
+          "likelihoodJustification": "Ændringen påvirker bestemt både prisen, mængden og tilgængeligheden af musik.",
+          "magnitude": 0.5,
+          "magnitudeJustification": "Med en pris reducering på 50% og en nærmest uendelig høj mængde forøgelse, er størelsen rimelig betydelig på målet taget musik konsumering i betragtning."
+        },
+        "1659615836176-46917187432465157": {
+          "id": "1659615836176-46917187432465157",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "",
+          "sdgCode": "15",
+          "likelihood": 0.7922488084985776,
+          "likelihoodJustification": "",
+          "magnitude": 0.4747513235706289,
+          "magnitudeJustification": ""
+        },
+        "1659615882371-27341864861732557": {
+          "id": "1659615882371-27341864861732557",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "",
+          "sdgCode": "15",
+          "likelihood": 0.11303106852787051,
+          "likelihoodJustification": "",
+          "magnitude": 0.04332379715906577,
+          "magnitudeJustification": ""
+        },
+        "1659615918768-2171483554757866": {
+          "id": "1659615918768-2171483554757866",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "",
+          "sdgCode": "15",
+          "likelihood": 0.5,
+          "likelihoodJustification": "",
+          "magnitude": 0.2,
+          "magnitudeJustification": ""
+        },
+        "1659616525407-5596276175595618": {
+          "id": "1659616525407-5596276175595618",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "",
+          "sdgCode": null,
+          "likelihood": 0.6881149834047282,
+          "likelihoodJustification": "",
+          "magnitude": 0.22495957620084048,
+          "magnitudeJustification": ""
+        },
+        "1659616564084-7085920044989107": {
+          "id": "1659616564084-7085920044989107",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "Ved øget behov for energi, kan det give mulighed for at udvide energi produktion med vedvarende kilder, hvilket har et positivt præg på mål 7. Det kan også gå i den anden retning hvis energien ikke er vedvarende.",
+          "sdgCode": "7",
+          "likelihood": 0.13435533058698074,
+          "likelihoodJustification": "På nuværende tidspunkt, er meget er den energi vi producere ikke vedvarende.\n Ifølge https://www.carbonbrief.org/factcheck-how-much-energy-does-the-world-get-from-renewables/\ner det under 15% af verdens energi forbrug som kommer fra vedvarende kilder. Med så lille en andel, er der ikke gode chancer for at den øget energi produktion er vedvarende.",
+          "magnitude": 0.4462887020291457,
+          "magnitudeJustification": "Internettet idag bruger 10% af den strøm vi bruger, og med et fremtidigt øget behov, bliver denne andel kun størere, derfor er størelsen moderate."
+        },
+        "1659616731638-24808904018554911": {
+          "id": "1659616731638-24808904018554911",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "Minedrift har en negativt indvirkning på biodiversitet som eksempelvis et resultat af skovrydning er jordforsuring og erosion.",
+          "sdgCode": "15",
+          "likelihood": 1,
+          "likelihoodJustification": "Med et højere behov for eksempelvis tungmetaller til elektronik i servere.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "Mængden af den negative effekt på biodiversitet en minedrifts forøgelse skyldet udelukkende et højere behov for servere produktion til musik streaming, er ikke særlig stor, ikke i forhold til eksempelvis skovrydning til landbrug."
+        },
+        "1659617272380-23661085924943914": {
+          "id": "1659617272380-23661085924943914",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "",
+          "sdgCode": null,
+          "likelihood": 0.774294910242478,
+          "likelihoodJustification": "",
+          "magnitude": 0.40225551345407995,
+          "magnitudeJustification": ""
+        },
+        "1659617327754-2624288409764627": {
+          "id": "1659617327754-2624288409764627",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "Minedriften forsager vandforuning",
+          "sdgCode": "6",
+          "likelihood": 0.5,
+          "likelihoodJustification": "En negativ påvirkning mål 6 kan finde sted hvis de nødvendige sikkerhedsforanstaltninger ikke tages. Det ikke alle steder som tager sikkerhedsforanstaltningerne, især i ikke i udsatte eller fattige områder.",
+          "magnitude": 0.5,
+          "magnitudeJustification": "Forurening af grundvandet resultere store dele tabt rent vand."
+        },
+        "1659618083098-366565360192571": {
+          "id": "1659618083098-366565360192571",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "Ved midnre afbrænding af plastikker som PVC, afgives mindre klorbrinte der resultere i mindre dannelse af saltsyre. Dette har en positiv effekt mål 12.4, da det reducere mængden af klortilførsel i forbrændingsanlægger.",
+          "sdgCode": "12.4",
+          "likelihood": 1,
+          "likelihoodJustification": "Afskaffelsen af plader og pladespillere vil bestemt reducere mængden af PVC, hvis erstatningen ikke også indeholder PVC, hvilken er tilfældet.",
+          "magnitude": 0.22853964331087062,
+          "magnitudeJustification": "På trods af at 2/3 dele af klortilførslen på danske forbrændings anlæger er skyldet PVC, er den mængde af PVC forbrændt skyldet afskaffelse af plader og pladespillere ikke lige så stor."
+        },
+        "1659619474716-5179445897206781": {
+          "id": "1659619474716-5179445897206781",
+          "removed": false,
+          "consequences": [
+            "1659620057431-275374930532443"
+          ],
+          "direction": "positive",
+          "justification": "En positiv påvirkning på Teknologisk og teknisk understøttelse, påvirker også mål 9 med infrastructur. Da datacentrer ofte kræver pålidelig teknologisk og teknisk understøttelse i form af strøm og internet.",
+          "sdgCode": "9",
+          "likelihood": 1,
+          "likelihoodJustification": "Der er mange steder uden strøm og internet, og hvis musik skal distribueres til steder uden, vil en forbedring af infrastructure være nødvendig. Andre steder skal der måske upgraderes til at facilitere det stører behøv.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "De steder hvor strøm og internet ikke er tilgængeligt i en pålidelig kapacitet er der andre ting som har en langt stører påvirkning på mål 9 end til formål at distribuere en luksus vare som musik streaming. I områder hvor infrastructuren eksistere men er mangelfuldt, kan distribution af musik via streaming være rimlig betydelig kilde til påvirkningen."
+        },
+        "1659619902173-28934971798485165": {
+          "id": "1659619902173-28934971798485165",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "",
+          "sdgCode": "7",
+          "likelihood": 0.6773341933888766,
+          "likelihoodJustification": "",
+          "magnitude": 0.6208632947641973,
+          "magnitudeJustification": ""
+        },
+        "1659620057431-275374930532443": {
+          "id": "1659620057431-275374930532443",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "Flere datacentre og mere behov for infrastructure skaber flere jobs hvilket har en positive effekt på mål 8.",
+          "sdgCode": "8",
+          "likelihood": 0.5,
+          "likelihoodJustification": "I områder hvor infrastruktur er manglende, vil der klart blive skabt flere jobs til at udvikle, operer og vedligeholde den positive infrastruktur udvikling.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "Mængden af flere jobs og økonomisk vækst fra et højere behov for teknologisk og teknisk understøttelse, udelukkende fra et behov om distribution af en luksus vare vil være ret lille. "
+        },
+        "1659620660626-478287979820344": {
+          "id": "1659620660626-478287979820344",
+          "removed": false,
+          "consequences": [],
+          "direction": "positive",
+          "justification": "En forøgelse af minedrift til øge økonomien og skabe jobs.",
+          "sdgCode": "8",
+          "likelihood": 1,
+          "likelihoodJustification": "Med et højere behov for råstoffer, vil prisen stige eller give mulighed for højere produktion der resultere i flere jobs.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "Mængden af den negative effekt på økonomi og job muligheder en minedrifts forøgelse skyldet udelukkende et højere behov for servere produktion til musik streaming, er ikke særlig stor, ikke i forhold til eksempelvis video streaming."
+        },
+        "1659620930652-6044273405775725": {
+          "id": "1659620930652-6044273405775725",
+          "removed": false,
+          "consequences": [],
+          "direction": "negative",
+          "justification": "Meget minedrift befinder sig i udsatte fattige områder, hvilket resultere i børne arbejde. Det har en negativ påvirkning på ordenlige arbejds omstændigheder.",
+          "sdgCode": "8",
+          "likelihood": 0.5,
+          "likelihoodJustification": "Der er mange tungmetaller som nærmest kun mines i udsatte områder. Eksempelvis kobolt, det er muligt at en forøgelse af minedrift vil påvirke arbejds omstændighederne negativt. Dog er det ikke alle steder som negliciere sikkerhed eller praktisere børne arbejde.",
+          "magnitude": 0.2,
+          "magnitudeJustification": "Mængden af den negative effekt på anstændige arbejdsforhold en minedrifts forøgelse skyldet udelukkende et højere behov for servere produktion til musik streaming, er ikke særlig stor, ikke i forhold til eksempelvis video streaming."
+        }
+      }
+    },
+    {
+      "type": "Store",
+      "name": "ImpactsForProcess",
+      "entries": {
+        "1659510905033-985239012530433": [
+          "1659547201859-1367791206332748"
+        ],
+        "1659510644430-6336376069588596": [],
+        "1659447231773-34007474351621614": [
+          "1659541616723-40812247851984695"
+        ],
+        "1659510822960-0885224336953746": [
+          "1659543796810-011373156375912963",
+          "1659616564084-7085920044989107"
+        ],
+        "1659510273078-46277253954143116": [
+          "1659544933786-0785780157405479"
+        ],
+        "1659543568050-5653074288537818": [
+          "1659546422477-9884482763578812",
+          "1659615384855-8576026582172432"
+        ],
+        "1659510912426-9684433704768295": [
+          "1659547038141-49700304572973897"
+        ],
+        "1659511212853-358442822410716": [
+          "1659547678922-7317534198673649"
+        ],
+        "1659511236987-8516245457876787": [
+          "1659547686742-8316401095093342",
+          "1659618083098-366565360192571"
+        ],
+        "1659541224893-6726708418133704": [
+          "1659601925724-2107216782881115"
+        ],
+        "1659543364962-6665796404315766": [
+          "1659616731638-24808904018554911",
+          "1659617327754-2624288409764627",
+          "1659620660626-478287979820344",
+          "1659620930652-6044273405775725"
+        ]
+      }
+    },
+    {
+      "type": "Store",
+      "name": "ProcessState",
+      "entries": {
+        "1659447231773-34007474351621614": {
+          "name": "Mindsket udvinding af fossile ressourcer fra lavere behov af mindsket PVC produktion",
+          "id": "1659447231773-34007474351621614",
+          "change": "reduced",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659447231773-34007474351621614"
+        },
+        "1659510273078-46277253954143116": {
+          "name": "Mindsket PVC og Polycarbonatplast produktion fra lavere behov af udrydet anskaffelse af plader",
+          "id": "1659510273078-46277253954143116",
+          "change": "reduced",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659510273078-46277253954143116"
+        },
+        "1659510354145-8242450218749043": {
+          "name": "Anskaffelse af plade og pladespiller fjernet fra udrydet behov for brug af LP og CD",
+          "id": "1659510354145-8242450218749043",
+          "change": "removed",
+          "isPhysical": true,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659510354145-8242450218749043"
+        },
+        "1659510407030-9088247923160068": {
+          "name": "Process 4",
+          "id": "1659510407030-9088247923160068",
+          "change": "added",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659510407030-9088247923160068"
+        },
+        "1659510468902-046460005425548956": {
+          "name": "Mindsket minedrift & udvinding af råstoffer fra lavere behov af udrydet pladespiller produktion",
+          "id": "1659510468902-046460005425548956",
+          "change": "reduced",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659510468902-046460005425548956"
+        },
+        "1659510515446-7220681775138565": {
+          "name": "Plade produktion og musik print fjernet fra udrydet behov for anskaffelse af plader",
+          "id": "1659510515446-7220681775138565",
+          "change": "removed",
+          "isPhysical": true,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659510515446-7220681775138565"
+        },
+        "1659510589336-466941250561687": {
+          "name": "Pladespiller produktion fjernet fra udrydet behov for anskaffelse af pladespiller",
+          "id": "1659510589336-466941250561687",
+          "change": "removed",
+          "isPhysical": true,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659510589336-466941250561687"
+        },
+        "1659510644430-6336376069588596": {
+          "name": "Musik lytning øges",
+          "id": "1659510644430-6336376069588596",
+          "change": "increased",
+          "isPhysical": false,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659510644430-6336376069588596"
+        },
+        "1659510688356-3110181091113672": {
+          "name": "Process 8",
+          "id": "1659510688356-3110181091113672",
+          "change": "added",
+          "isPhysical": false,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659510688356-3110181091113672"
+        },
+        "1659510707727-1827822475271158": {
+          "name": "Process 8",
+          "id": "1659510707727-1827822475271158",
+          "change": "added",
+          "isPhysical": false,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659510707727-1827822475271158"
+        },
+        "1659510724251-875189467943566": {
+          "name": "Musik lytning (fra lettere tilgang)",
+          "id": "1659510724251-875189467943566",
+          "change": "increased",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659510724251-875189467943566"
+        },
+        "1659510779189-31885842545352583": {
+          "name": "Energi produktion fra lavere behov af øget musik lytning",
+          "id": "1659510779189-31885842545352583",
+          "change": "same",
+          "isPhysical": true,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659510779189-31885842545352583"
+        },
+        "1659510822960-0885224336953746": {
+          "name": "Øget energi produktion fra højere behov af øget operation og vedligeholdese af online musik tjenester",
+          "id": "1659510822960-0885224336953746",
+          "change": "increased",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659510822960-0885224336953746"
+        },
+        "1659510858636-4151421813825843": {
+          "name": "Øget minedrift & udvinding af råstoffer fra højere behov af øget fremstilling af datacentre",
+          "id": "1659510858636-4151421813825843",
+          "change": "increased",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659510858636-4151421813825843"
+        },
+        "1659510892041-35181708040418824": {
+          "name": "",
+          "id": "1659510892041-35181708040418824",
+          "change": "increased",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659510892041-35181708040418824"
+        },
+        "1659510905033-985239012530433": {
+          "name": "Øget operation og vedligeholdese af online musik tjenester fra højere behov fra øget musik lytning igennem online musik tjenester som direkte udkom af ændring",
+          "id": "1659510905033-985239012530433",
+          "change": "increased",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659510905033-985239012530433"
+        },
+        "1659510912426-9684433704768295": {
+          "name": "Øget fremstilling af datacentre fra højere behov af øget operation og vedligeholdese af online musik tjenester",
+          "id": "1659510912426-9684433704768295",
+          "change": "increased",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659510912426-9684433704768295"
+        },
+        "1659510995750-1332084687681392": {
+          "name": "Afskaffelse af plader og pladespiller fjernet  fjernet fra udrydet behov for anskaffelse af plader og pladerspiller",
+          "id": "1659510995750-1332084687681392",
+          "change": "removed",
+          "isPhysical": true,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659510995750-1332084687681392"
+        },
+        "1659511212853-358442822410716": {
+          "name": "Mindsket genbrug af plastik fra udrydet afskaffelse af plader og pladerspiller",
+          "id": "1659511212853-358442822410716",
+          "change": "reduced",
+          "isPhysical": true,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659511212853-358442822410716"
+        },
+        "1659511236987-8516245457876787": {
+          "name": "Mindsket afbrænding af plastik fra udrydet anskaffelse af plader og pladespiller",
+          "id": "1659511236987-8516245457876787",
+          "change": "reduced",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659511236987-8516245457876787"
+        },
+        "1659511262467-9487790571187255": {
+          "name": "Adskillelse og genbrug af elektronik (fra udrydet afskaffelse af servere mm.)",
+          "id": "1659511262467-9487790571187255",
+          "change": "increased",
+          "isPhysical": true,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659511262467-9487790571187255"
+        },
+        "1659511287095-5178367318053988": {
+          "name": "Øget adskillse og genbrug af elektronik fra højere behov for øget operation og vedligeholdese af online musik tjenester)",
+          "id": "1659511287095-5178367318053988",
+          "change": "increased",
+          "isPhysical": true,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659511287095-5178367318053988"
+        },
+        "1659541210525-3778063077396162": {
+          "name": "Opbevaring af elektronik skrald på lossepladser fra øget afskaffelse af server mm.",
+          "id": "1659541210525-3778063077396162",
+          "change": "increased",
+          "isPhysical": true,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659541210525-3778063077396162"
+        },
+        "1659541224893-6726708418133704": {
+          "name": "Opbevaring af plastik skrald på lossepladser fra udrydet afskaffelse af plader og pladespiller",
+          "id": "1659541224893-6726708418133704",
+          "change": "reduced",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659541224893-6726708418133704"
+        },
+        "1659543364962-6665796404315766": {
+          "name": "Minedrift efter råstoffer øges",
+          "id": "1659543364962-6665796404315766",
+          "change": "increased",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659543364962-6665796404315766"
+        },
+        "1659543377555-9894194451424109": {
+          "name": "",
+          "id": "1659543377555-9894194451424109",
+          "change": "added",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659543377555-9894194451424109"
+        },
+        "1659543398824-01542943433408206": {
+          "name": "Minedrift efter råstoffer",
+          "id": "1659543398824-01542943433408206",
+          "change": "added",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659543398824-01542943433408206"
+        },
+        "1659543434444-1607270846469654": {
+          "name": "",
+          "id": "1659543434444-1607270846469654",
+          "change": "added",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659543434444-1607270846469654"
+        },
+        "1659543482838-4813777844065741": {
+          "name": "Plade produktion og musik print afskaffes",
+          "id": "1659543482838-4813777844065741",
+          "change": "removed",
+          "isPhysical": true,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659543482838-4813777844065741"
+        },
+        "1659543516700-7993085912657077": {
+          "name": "Afspilningsenheds produktion afskaffes",
+          "id": "1659543516700-7993085912657077",
+          "change": "removed",
+          "isPhysical": true,
+          "includeEffect": false,
+          "direct": "direct",
+          "pid": "1659543516700-7993085912657077"
+        },
+        "1659543535590-9255861518934151": {
+          "name": "Process 19",
+          "id": "1659543535590-9255861518934151",
+          "change": "added",
+          "isPhysical": true,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659543535590-9255861518934151"
+        },
+        "1659543568050-5653074288537818": {
+          "name": "Gennemsnits prisen på musik lytningen falder",
+          "id": "1659543568050-5653074288537818",
+          "change": "reduced",
+          "isPhysical": false,
+          "includeEffect": true,
+          "direct": "direct",
+          "pid": "1659543568050-5653074288537818"
+        }
+      }
+    },
+    {
+      "type": "Store",
+      "name": "StageProcesses",
+      "entries": {
+        "materials": [
+          "1659447231773-34007474351621614",
+          "1659510779189-31885842545352583",
+          "1659510822960-0885224336953746",
+          "1659543364962-6665796404315766"
+        ],
+        "production": [
+          "1659510273078-46277253954143116",
+          "1659510912426-9684433704768295",
+          "1659543482838-4813777844065741",
+          "1659543516700-7993085912657077"
+        ],
+        "usage": [
+          "1659510354145-8242450218749043",
+          "1659510644430-6336376069588596",
+          "1659510905033-985239012530433",
+          "1659543568050-5653074288537818"
+        ],
+        "recycle": [
+          "1659510995750-1332084687681392",
+          "1659511212853-358442822410716",
+          "1659511236987-8516245457876787",
+          "1659511262467-9487790571187255",
+          "1659511287095-5178367318053988",
+          "1659541210525-3778063077396162",
+          "1659541224893-6726708418133704"
+        ]
+      }
+    },
+    {
+      "type": "Value",
+      "key": "Variant",
+      "value": "A"
+    },
+    {
+      "type": "Value",
+      "key": "ProjectName",
+      "value": "Project 198"
+    },
+    {
+      "type": "Value",
+      "key": "ProjectAuthors",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "ProjectDepartment",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Project/LastVisit",
+      "value": 1659634954275
+    },
+    {
+      "type": "Value",
+      "key": "Project/Archived",
+      "value": false
+    },
+    {
+      "type": "Value",
+      "key": "includeReport",
+      "value": false
+    },
+    {
+      "type": "Value",
+      "key": "Introduction/Background",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "JustificationForVariant",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Introduction/Figure",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Introduction/Figure/Caption",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "References/Text",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase1/TypeOfApplication",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase1/GeographicalAndOrActivityScoping",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase1/TimeHorizon",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase1/SensitivityAnalysisAndScenarios",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase1/Figure",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase1/Figure/Caption",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase1/IdentificationAndDefinitionOfTheFieldsAndOrSubfields",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase1/Boundaries of the field.",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase1/Societal relevance",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase1/VariantDFigure",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase1/VariantDFigure/Caption",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase5/MostImportantSDG",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase5/HotspotsForImprovements",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase5/Tradeoffs",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase5/PotentialLimitations",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase5/ShortTermRecommendations",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase5/LongTermRecommendations",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/SplitBaselineAndNewSystemAtom",
+      "value": true
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/BaselineExplanation",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/BaselineFigure",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/BaselineFigure/Caption",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/NewSystemExplanation",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/NewSystemFigure",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/NewSystemFigure/Caption",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/BaselineAndNewSystemExplanation",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/BaselineAndNewSystemFigure",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/BaselineAndNewSystemFigure/Caption",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/DuringAndAfterSystemExplanation",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/DuringAndAfterSystemFigure",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/DuringAndAfterSystemFigure/Caption",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/OriginAndPastDevelopmentOfTheField",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/LinkToSustainabilityAndSustainableDevelopment",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/Figure",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase2/Figure/Caption",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase3/JustificationForChoice",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase3/FutureDirectionsAndChallengesOfTheField",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase3/LinkToSustainabilityAndSustainableDevelopment",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase3/Figure",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase3/Figure/Caption",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase4/ContributionsFigure",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase4/ContributionsFigure/Caption",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase4/GeneralObservationsAnalysis",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase4/FuturePerspectivesFromYourPointOfView",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase4/OpportunitiesForLargerContributionsToSustainableDevelopment",
+      "value": ""
+    },
+    {
+      "type": "Value",
+      "key": "Phase4/PotentialImplicationsForYourOwnResearchProject",
+      "value": ""
+    }
+  ]
+}
